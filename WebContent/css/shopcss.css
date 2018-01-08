@@ -1,0 +1,130 @@
+#fater{
+				width: 900px;
+				border: 1px;
+				border-color: black;
+				border-style: solid;
+				margin: auto;
+			}
+			#faterhead{
+				width: 900px;
+				border: 1px;
+				border-color: black;
+				border-style: solid;
+				margin: auto;
+			}
+			#log_left{
+				float: left;
+			}
+			#log_right{
+				float: right;
+				margin: 20px;
+			}
+			#log_right a{
+				text-decoration: none;
+				font-size: 15px;
+			}
+			.clearn{
+				clear: both;
+			}
+			.daohang{
+				background-color: #999;
+				height: 47px;
+				padding-top: 3px;
+				
+			}
+			#daohang li{
+				display: inline;	
+			}
+			#daohang a:link{
+				color: #ffffff;
+			}
+			#daohang a:visited{
+				color: black;
+			}
+			#daohang a:hover{
+				color:#7FFF00;
+			}
+			#daohang a:active{
+				color:red;
+			}
+			#daohang a{
+				text-decoration: none;
+			}
+			
+			ul li{
+				display: inline;	
+			}
+			ul a:link{
+				color: #000000;
+			}
+			ul a:visited{
+				color: black;
+			}
+			ul a:hover{
+				color:#7FFF00;
+			}
+			ul a:active{
+				color:red;
+			}
+			ul a{
+				text-decoration: none;
+			}
+			
+			#pic_left1{
+				width: 25%;
+				height:90%;
+				float: left;
+			}
+			#pic_right1{
+				width: 75%;
+				height:90%;
+				float: left;
+			}
+			.product{
+				float: left;
+				width: 25%;
+				text-align: center;
+			}
+			
+			.product p{
+				margin-top: 0px;
+			}
+			#pic_left2{
+				width: 25%;
+				height:90%;
+				float: left;
+				border: 1px;
+			}
+			#pic_right2{
+				width: 75%;
+				height:90%;
+				float: left;
+			}
+			#button a:link{
+				color: black;
+			}
+			#button a:visited{
+				color: black;
+			}
+			#button a:hover{
+				color:#7FFF00;
+			}
+			#button a:active{
+				color:red;
+			}
+			#button a{
+				text-decoration: none;
+				
+			}
+			#button{
+				text-align: center;
+				font-size: 3px;
+				font-family: "微软雅黑";
+			}
+			#button_2{
+				text-align: center;
+				font-size: 3px;
+				font-family: "微软雅黑";
+				margin-bottom: 10px;
+				margin-top: 10px;
+			}

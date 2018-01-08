@@ -1,0 +1,56 @@
+#buyfather {
+	width: 900px;
+	border: 1px;
+	border-color: #999;
+	border-style: solid;
+	margin: auto;
+}
+
+#picture_left {
+	float: left;
+}
+
+#info_right {
+	float: left;
+	margin-top: 0px;
+	margin-left: 50px;	
+}
+
+#buy {
+	float: left;
+}
+a{
+	font:30px;
+	text-decoration: none;
+}
+			a:link{
+				color: black;
+			}
+			a:visited{
+				color: black;
+			}
+			a:hover{
+				color:#b5005a;
+			}
+			a:active{
+				color:red;
+			}
+
+#add {
+
+	float: left;
+	margin-left:30px;
+}
+#add a{
+	text-decoration: none;
+}
+
+.clearn {
+	clear: both;
+}
+#pdesc{
+	border: 1px;
+	border-color: #999;
+	border-style: solid;
+	margin-top:60px;
+}
